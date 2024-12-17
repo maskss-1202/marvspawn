@@ -1,0 +1,3 @@
+teleport-message: "§a指定高度を下回ったため、安全な地点へテレポートしました！"
+join-teleport-message: "§a参加時に指定された地点にテレポートしました！"
+reload-message: "§a設定とメッセージがリロードされました！"

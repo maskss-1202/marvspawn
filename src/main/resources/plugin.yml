@@ -1,0 +1,14 @@
+name: Marvteleport
+main: marvtechnology.marvteleport.Marvteleport
+version: 1.1
+api-version: "1.20"
+author: mask
+description: "指定高度以下に下がった場合、指定地点へテレポートするプラグイン"
+
+commands:
+  marvteleport:
+    description: "VoidTeleportプラグインのメインコマンド"
+    usage: "/marvteleport [setspawn|getspawn|reload]"
+    aliases: [mt]
+    permission: "marvteleport.use"
+    permission-message: "§cこのコマンドを実行する権限がありません。"
