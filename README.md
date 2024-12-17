@@ -1,0 +1,2 @@
+# marvspawn
+marvsetworldspawn
